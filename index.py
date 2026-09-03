@@ -1,9 +1,10 @@
 #-------------------------------------------------------------------------
 # AUTHOR: Paul Myung
 # FILENAME: index.py
-# SPECIFICATION: description of the program
+# SPECIFICATION: This python file will read csv with document # and text, apply lemmatization and normalization,
+# and return the inverted index with terms alphabetically 
 # FOR: CS 4250 - Assignment #1
-# TIME SPENT: how long it took you to complete the assignment
+# TIME SPENT: 30 minutes
 #-------------------------------------------------------------------------
 
 # Importing Python libraries
